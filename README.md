@@ -1,7 +1,7 @@
 # Menu com flexbox
 Projeto de menu semântico e responsivo utilizando as propriedades de flexbox e unidade de medida em rem 🚀
 
-## Tecnologia utilizadas
+## Tecnologias utilizadas
 - HTML
 - CSS
 
